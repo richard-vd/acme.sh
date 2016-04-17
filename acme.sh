@@ -5,7 +5,8 @@ PROJECT_NAME="acme.sh"
 
 PROJECT_ENTRY="acme.sh"
 
-PROJECT="https://github.com/Neilpang/$PROJECT_NAME"
+PROJECT="https://github.com/richard-vd/$PROJECT_NAME"
+BRANCH="test"
 
 DEFAULT_CA="https://acme-v01.api.letsencrypt.org"
 DEFAULT_AGREEMENT="https://letsencrypt.org/documents/LE-SA-v1.0.1-July-27-2015.pdf"
